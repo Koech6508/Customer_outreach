@@ -11,7 +11,7 @@ This project uses [CrewAI](https://docs.crewai.com/) to promote medical solution
 - **Medical Outreach Coordinator**: Creates personalized communications for medical professionals.
 
 ## Tasks
-- **Lead Profiling Task**: Gathers data on an institution (e.g., Cleveland Clinic) and suggests solution benefits.
+- **Lead Profiling Task**: Gathers data on an institution (e.g., Chagua Health) and suggests solution benefits.
 - **Personalized Outreach Task**: Drafts professional, patient-care-focused messages for decision-makers.
 
 ## Tools
